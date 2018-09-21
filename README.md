@@ -1,5 +1,5 @@
-## Program to generate phonetics notation of English paragraphs
+## Program to generate phonetics notation of English paragraphs  
 
-Documentation:
-Please look at documentation.pdf file
+Documentation:  
+Please look at *documentation.pdf* file  
 
