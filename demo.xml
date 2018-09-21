@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook>
+
+<Styles>
+ <Style ID="Default" Name="Normal">
+  <Alignment Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ID="s27">
+  <Font Family="Swiss" Color="#0000FF" Bold="1"/>
+ </Style>
+ <Style ID="s21">
+  <NumberFormat Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ID="s22">
+  <NumberFormat Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ID="s23">
+  <NumberFormat Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet Name="Sheet1">
+  <Table>
+   <Row>
+    <Cell  StyleID="s27"><Data Type="String">word</Data></Cell>
+    <Cell  StyleID="s27"><Data Type="String">ipa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a</Data></Cell>
+    <Cell><Data Type="String">ə</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a bad risc</Data></Cell>
+    <Cell><Data Type="String">əbædrisk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a bag of nerves</Data></Cell>
+    <Cell><Data Type="String">əbægɔfnəːvz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a big shot</Data></Cell>
+    <Cell><Data Type="String">əbigʃɔt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a bit</Data></Cell>
+    <Cell><Data Type="String">əbit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a bolt from the blue</Data></Cell>
+    <Cell><Data Type="String">əboultfrɔmðbluː</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a booming city</Data></Cell>
+    <Cell><Data Type="String">əbuːmiŋsitiː</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a born fool</Data></Cell>
+    <Cell><Data Type="String">əbɔːnfuːl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">A breeze has sprung up.</Data></Cell>
+    <Cell><Data Type="String">əbriːzhæzsprʌŋʌp</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a broad laughter</Data></Cell>
+    <Cell><Data Type="String">əbrɔːdlɑːftər</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a cake of soap</Data></Cell>
+    <Cell><Data Type="String">əkeikɔfsoup</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a cheap trick</Data></Cell>
+    <Cell><Data Type="String">ətʃiːptrik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a clever move</Data></Cell>
+    <Cell><Data Type="String">əklevərmuːv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a cock-and-bull story</Data></Cell>
+    <Cell><Data Type="String">əkɔkændbulstɔːriː</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a constant check is kept on</Data></Cell>
+    <Cell><Data Type="String">əkənstənttʃekizkeptwʌn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a couple of days</Data></Cell>
+    <Cell><Data Type="String">əkʌplɔfdeiz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a dark horse</Data></Cell>
+    <Cell><Data Type="String">ədɑːkhɔːs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">a dark secret</Data></Cell>
+    <Cell><Data Type="String">ədɑːksiːkrit</Data></Cell>
+   </Row>
+ </Table>
+</Worksheet>
+</Workbook>
